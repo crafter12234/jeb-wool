@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "jeb_wool:blocks/jeb_wool_stairs",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "jeb_wool:jeb_wool_stairs"
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ]
+    }
+  ]
+}

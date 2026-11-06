@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "jeb_wool:block/jeb_wool",
+    "top": "jeb_wool:block/jeb_wool",
+    "side": "jeb_wool:block/jeb_wool"
+  }
+}

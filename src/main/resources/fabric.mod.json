@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "jeb_wool",
+  "version": "${version}",
+  "name": "jeb_ Wool",
+  "description": "Kill or shear a sheep named jeb_ to get wool that cycles through all 16 colors.",
+  "authors": [
+    "crafter12234"
+  ],
+  "contact": {
+    "homepage": "https://github.com/crafter12234/jeb-wool",
+    "sources": "https://github.com/crafter12234/jeb-wool",
+    "issues": "https://github.com/crafter12234/jeb-wool/issues"
+  },
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.example.jebwool.JebWoolMod"
+    ],
+    "client": [
+      "com.example.jebwool.client.JebWoolClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.0",
+    "minecraft": "~26.3",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}

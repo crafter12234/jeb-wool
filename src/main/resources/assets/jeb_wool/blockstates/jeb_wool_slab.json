@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "jeb_wool:block/jeb_wool_slab"
+    },
+    "type=top": {
+      "model": "jeb_wool:block/jeb_wool_slab_top"
+    },
+    "type=double": {
+      "model": "jeb_wool:block/jeb_wool"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "block.jeb_wool.jeb_wool": "jeb_ Wool",
+  "block.jeb_wool.jeb_carpet": "jeb_ Carpet",
+  "block.jeb_wool.jeb_wool_slab": "jeb_ Wool Slab",
+  "block.jeb_wool.jeb_wool_stairs": "jeb_ Wool Stairs",
+  "block.jeb_wool.jeb_bed": "jeb_ Bed",
+  "item.jeb_wool.jeb_cushion": "jeb_ Cushion",
+  "entity.jeb_wool.jeb_cushion": "jeb_ Cushion"
+}

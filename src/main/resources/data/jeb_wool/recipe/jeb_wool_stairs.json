@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": "jeb_wool:jeb_wool"
+  },
+  "result": {
+    "id": "jeb_wool:jeb_wool_stairs",
+    "count": 4
+  }
+}

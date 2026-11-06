@@ -1,0 +1,51 @@
+# gradle
+
+.gradle/
+build/
+out/
+classes/
+
+# eclipse
+
+*.launch
+
+# idea
+
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# vscode
+
+.settings/
+.vscode/
+bin/
+.classpath
+.project
+
+# macos
+
+*.DS_Store
+
+# fabric
+
+run/
+
+# java
+
+hs_err_*.log
+replay_*.log
+*.hprof
+*.jfr
+
+
+# Generated from Minecraft assets - do not commit
+src/main/resources/assets/jeb_wool/textures/
+src/main/resources/assets/jeb_wool/models/block/jeb_bed*.json
+src/main/resources/assets/jeb_wool/blockstates/jeb_bed.json
+src/main/resources/assets/jeb_wool/items/jeb_bed.json
+
+# Local diagnostics
+cushion_api.txt
+diagnostics.txt

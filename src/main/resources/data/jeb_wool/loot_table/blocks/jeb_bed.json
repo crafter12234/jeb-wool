@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "jeb_wool:blocks/jeb_bed",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "jeb_wool:jeb_bed",
+          "conditions": [
+            {
+              "condition": "minecraft:block_state_property",
+              "block": "jeb_wool:jeb_bed",
+              "properties": {
+                "part": "head"
+              }
+            }
+          ]
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ]
+    }
+  ]
+}

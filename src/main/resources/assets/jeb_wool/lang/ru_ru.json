@@ -1,0 +1,9 @@
+{
+  "block.jeb_wool.jeb_wool": "Шерсть jeb_",
+  "block.jeb_wool.jeb_carpet": "Ковёр jeb_",
+  "block.jeb_wool.jeb_wool_slab": "Шерстяная плита jeb_",
+  "block.jeb_wool.jeb_wool_stairs": "Шерстяные ступеньки jeb_",
+  "block.jeb_wool.jeb_bed": "Кровать jeb_",
+  "item.jeb_wool.jeb_cushion": "Подушка jeb_",
+  "entity.jeb_wool.jeb_cushion": "Подушка jeb_"
+}
